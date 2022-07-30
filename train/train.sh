@@ -1,0 +1,1 @@
+nohup python -u train_motiondeblur.py --warmup --resume > log_all4.log 2>&1 &
